@@ -1,0 +1,12 @@
+{
+    "name": "tolen/clinipets",
+    "authors": [
+        {
+            "name": "clinipets_dev",
+            "email": "clinipets@gmail.com"
+        }
+    ],
+    "require": {
+    	"facebook/graph-sdk" : "~5.0"
+    }
+}
